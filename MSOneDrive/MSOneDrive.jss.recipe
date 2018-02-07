@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of OneDrive and builds a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.cfellner.recipes.MSOneDrive.MSOneDrive.jss.recipe</string>
+	<string>com.github.amsysuk-precipes.pkg.MSOneDrive</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
