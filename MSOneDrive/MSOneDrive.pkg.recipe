@@ -5,9 +5,7 @@
         <key>Identifier</key>
         <string>com.github.cfellner.recipes.MSOneDrive.pkg.MSOneDrive</string>
         <key>Description</key>
-        <string>Downloads the latest version of OneDrive Standalone installer
-pkg from Microsoft (using the parent recipe
-com.github.apettinen.download.MSOneDrive) and exposes the pkg itself.
+        <string>Downloads the latest version of OneDrive Standalone installer pkg from Microsoft (using the parent recipe com.github.apettinen.download.MSOneDrive) and exposes the pkg itself.
         </string>
         <key>MinimumVersion</key>
         <string>0.6.0</string>
@@ -41,7 +39,7 @@ com.github.apettinen.download.MSOneDrive) and exposes the pkg itself.
                     <key>destination_path</key>
                     <string>%RECIPE_CACHE_DIR%/unpack</string>
                     <key>pkg_payload_path</key>
-                    <string>%RECIPE_CACHE_DIR%/expanded/%filename%/Payload</string>
+                    <string>%pathname%</string>
                 </dict>
             </dict>
             <dict>
