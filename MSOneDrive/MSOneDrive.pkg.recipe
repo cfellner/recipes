@@ -60,8 +60,6 @@ com.github.apettinen.download.MSOneDrive) and exposes the pkg itself.
                 <string>PkgCopier</string>
                 <key>Arguments</key>
                 <dict>
-                    <key>pkg_path</key>
-               	 <string>%pathname%</string>
                     <key>source_pkg</key>
                     <string>%pathname%</string>
                 </dict>
