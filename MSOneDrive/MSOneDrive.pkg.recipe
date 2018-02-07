@@ -61,7 +61,7 @@ com.github.apettinen.download.MSOneDrive) and exposes the pkg itself.
                 <key>Arguments</key>
                 <dict>
                     <key>pkg_path</key>
-                    <string>%RECIPE_CACHE_DIR%/%NAME%-%version%.pkg</string>
+               	 <string>%pathname%</string>
                     <key>source_pkg</key>
                     <string>%pathname%</string>
                 </dict>
