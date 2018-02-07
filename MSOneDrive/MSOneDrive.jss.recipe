@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.com.github.cfellner.recipes.MSOneDrive.pkg.MSOneDrive</string>
+	<string>com.github.cfellner.recipes.MSOneDrive.pkg.MSOneDrive</string>
 	<key>Process</key>
 	<array>
 		<dict>
