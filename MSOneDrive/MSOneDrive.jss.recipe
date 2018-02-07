@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of OneDrive and builds a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.cfellner.recipes.JSS_MSOneDrive</string>
+	<string>com.github.cfellner.recipes.MSOneDrive.MSOneDrive.jss.recipe</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -32,7 +32,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.apettinen.download.MSOneDrive/string>
+	<string>com.github.apettinen.download.MSOneDrive</string>
 	<key>Process</key>
 	<array>
 		<dict>
